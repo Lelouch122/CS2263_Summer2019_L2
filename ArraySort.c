@@ -96,6 +96,6 @@ int main(void)
 
     printArray(a, array_size);
     
-    EXIT_SUCCESS;
+    return EXIT_SUCCESS;
 
 }

@@ -95,5 +95,7 @@ int main(void)
     inPlaceSort(a, array_size);
 
     printArray(a, array_size);
+    
+    EXIT_SUCCESS;
 
 }
